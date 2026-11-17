@@ -156,9 +156,9 @@ qlora-qwen3/
 | Variable | Value |
 |----------|-------|
 | `AZURE_OPENAI_API_KEY` | Your Azure key (never logged or displayed) |
-| `AZURE_OPENAI_ENDPOINT` | `https://sanjeet.openai.azure.com/` |
-| `AZURE_OPENAI_DEPLOYMENT_NAME` | `Astra_IDPT` |
-| `AZURE_OPENAI_API_VERSION` | `2025-03-01-preview` |
+| `AZURE_OPENAI_ENDPOINT` | `https://azure.openai.azure.com/` |
+| `AZURE_OPENAI_DEPLOYMENT_NAME` | `xxx` |
+| `AZURE_OPENAI_API_VERSION` | `xxxx` |
 
 Validate the connection from the Dataset Generation page → **Azure OpenAI Configuration** expander → **Validate Azure Connection**.
 
