@@ -1,0 +1,35 @@
+# Environment variables & secrets (CRITICAL)
+.env
+.env.*
+*.env
+
+# Python virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# Python cache & artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Streamlit temporary / local state
+.streamlit/secrets.toml
+
+# Workspace & Large Training Files (models, datasets, DBs, checkpoints)
+workspace/
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.onnx
+*.db
+*.sqlite3
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini

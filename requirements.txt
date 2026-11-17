@@ -1,0 +1,11 @@
+# ML Training & Inference Requirements
+torch>=2.1.0
+transformers>=4.45.0
+peft>=0.12.0
+trl>=0.9.0
+bitsandbytes>=0.43.0
+datasets>=2.19.0
+accelerate>=0.30.0
+
+# Platform / UI Requirements
+-r requirements_app.txt
