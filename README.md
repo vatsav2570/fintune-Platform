@@ -41,9 +41,9 @@ Your `.env` file already contains the required variables. Verify it contains:
 
 ```bash
 AZURE_OPENAI_API_KEY=...
-AZURE_OPENAI_ENDPOINT=https://sanjeet.openai.azure.com/
-AZURE_OPENAI_DEPLOYMENT_NAME=Astra_IDPT
-AZURE_OPENAI_API_VERSION=2025-03-01-preview
+AZURE_OPENAI_ENDPOINT=https://azure.openai.azure.com/
+AZURE_OPENAI_DEPLOYMENT_NAME=model_name
+AZURE_OPENAI_API_VERSION=xxxx
 ```
 
 For gated Hugging Face models (e.g. Llama 3), also add:
