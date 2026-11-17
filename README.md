@@ -11,7 +11,7 @@
 |-----------|-------------|
 | OS | Linux (tested on Ubuntu 24.04, aarch64) |
 | GPU | NVIDIA CUDA-capable (GB10 / DGX Spark tested) |
-| VRAM | ≥ 8 GB for QLoRA on small models; 130 GB available on DGX Spark |
+| VRAM | ≥ 8 GB for QLoRA on small models;  |
 | Python | 3.12.3 (inside `venv/`) |
 | CUDA | 13.0 (Driver 580.159.03) |
 
